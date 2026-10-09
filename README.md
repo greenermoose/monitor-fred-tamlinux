@@ -1,5 +1,9 @@
 # Display & Monitor Manager (`fred.monitor`)
 
+> [!IMPORTANT]
+> **Repository Frozen:** This repository is frozen and retained for historical reference as the Omarchy 1.x release suite. Active Tamlinux development for `fred.monitor` has moved to the unified [Tamlinux](https://github.com/greenermoose/tamlinux) repository under [`desktop/plugins/fred.monitor/`](https://github.com/greenermoose/tamlinux/tree/main/desktop/plugins/fred.monitor).
+
+
 Display information, per-display control, saved layouts, and guarded link reset plugin for [Tamlinux](https://github.com/greenermoose/tamlinux) (Fred's personal Linux workstation environment; Hyprland + Quickshell). Current release: **v1.2.3**.
 
 ![fred.monitor Screenshot](assets/screenshot.png)
